@@ -29,3 +29,4 @@ switch (userchoice)
         break;
 }
 Console.WriteLine("{0}{1}{2}={3}", i, ch, j, k);
+Console.ReadLine();
