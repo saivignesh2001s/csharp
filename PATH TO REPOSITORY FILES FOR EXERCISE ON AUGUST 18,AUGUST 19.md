@@ -1,13 +1,13 @@
 FOR EXERCISES IN AUGUST 18
 FOR FIRST EXERCISE
-saivignesh2001s/Aug17swap
+"saivignesh2001s/Aug17swap"
 FOR SECOND TO FIFTEEN
-saivignesh2001s/Aug17Exercises
+"saivignesh2001s/Aug17Exercises"
 FOR INCREMENTAL ASSIGNMENT
-saivignesh2001s/Appassign
+"saivignesh2001s/Appassign"
 
 FOR EXERCISES IN AUGUST 19
-saivignesh2001s/August18handsonexercise
+"saivignesh2001s/August18handsonexercise"
 EX.NO   BRANCH
  1 - MASTER
  2 - largestthree
